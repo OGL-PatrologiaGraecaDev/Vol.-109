@@ -1,0 +1,22 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/109/nnc1.0046979867/604.png"; bbox 0 0 2073 3218; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1432 310 1669 330">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1432 310 1669 330">
+     <span class='ocr_line' id='line_1_1' title="bbox 1432 310 1669 330; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1432 311 1494 330; x_wconf 71' lang='grc' dir='ltr'><strong>ΜΒΙΑ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1502 310 1648 330; x_wconf 68' lang='grc' dir='ltr'><strong>υκινεηειτν</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1656 310 1669 330; x_wconf 94' lang='lat' dir='ltr'>L</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1364 309 1857 475">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1364 309 1857 475">
+     <span class='ocr_line' id='line_1_2' title="bbox 1364 309 1857 475; baseline -0.008 -19"><span class='ocrx_word' id='word_1_4' title='bbox 1364 309 1785 455; x_wconf 54' lang='lat' dir='ltr'><strong>WWEWJW</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1847 418 1857 475; x_wconf 68' lang='grc' dir='ltr'><em>ρ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 736 2706 1685 3200">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1078 2710 1223 2859">
+     <span class='ocr_line' id='line_1_3' title="bbox 1078 2710 1223 2797; baseline 0.014 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1078 2710 1223 2797; x_wconf 56' lang='grc' dir='ltr'><strong>..ῗὶῖὼ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1092 2789 1207 2859; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1092 2789 1207 2859; x_wconf 48' lang='lat' dir='ltr'><strong>vis»</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
